@@ -8,6 +8,6 @@ Sou um profissional formado em mecânica industrial com mais de 3 anos de experi
 
 ### Detalhes
 
-[![Anurag’s Github stats](https://guthub-readme-stats.vercel.app/api?username=Cantarani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)]
+[![Anurag’s Github stats](https://guthub-readme-stats.vercel.app/api?username=Cantarani&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
