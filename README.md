@@ -14,3 +14,9 @@ Sou um profissional formado em mecânica industrial com mais de 3 anos de experi
 
 ### Projetos
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cantarani&repo=Telegram-Pipeline&theme=dark)]
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cantarani&repo=Credit-EDA-and-Analysis&theme=dark)]
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cantarani&repo=COVID-Dashboard&theme=dark)]
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cantarani&repo=Projeto-de-Parceria--Modelo-de-Aprendizagem-de-Maquina&theme=dark)]
