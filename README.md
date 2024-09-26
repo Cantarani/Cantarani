@@ -22,4 +22,4 @@ Sou um profissional formado em mecânica industrial com mais de 3 anos de experi
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cantarani&repo=Projeto-de-Parceria---Modelo-de-Aprendizagem-de-Maquina&theme=dark)]
 
 ### Linguagens +Utilizadas
-![Top_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cantarani&layout=compact)
+![Top_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cantarani&layout=compact&theme=dark)
