@@ -13,3 +13,4 @@ Sou um profissional formado em mecânica industrial com mais de 3 anos de experi
 
 
 ### Projetos
+![Readme Card](https://github-readme-stats.vercel.app/api.pin/?username=Cantarani&repo=Pipeline Telegram&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
