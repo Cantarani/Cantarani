@@ -1,7 +1,8 @@
 ### Olá 👋
 
 
-###### Especialista em usinagem com experiência prática em retificação CNC de ferramentas de precisão utilizando máquinas ANCA, WALTER e HAAS, com histórico na fabricação de ferramentas de metal duro na ISCAR do Brasil — uma das maiores empresas de ferramentas de corte do mundo.
+###### 
+Especialista em usinagem com experiência prática em retificação CNC de ferramentas de precisão utilizando máquinas ANCA, WALTER e HAAS, com histórico na fabricação de ferramentas de metal duro na ISCAR do Brasil — uma das maiores empresas de ferramentas de corte do mundo.
  
 Ao longo da trajetória, expandi meu repertório em direção à automação, dados e inteligência artificial, desenvolvendo ferramentas internas para automatizar relatórios de controle de qualidade e criando interfaces para o software de retificação CNC ANCA iGrind. Esses projetos refletem um interesse crescente em tornar a manufatura mais inteligente e eficiente.
  
