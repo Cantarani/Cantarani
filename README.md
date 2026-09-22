@@ -1,10 +1,13 @@
 ### Olá 👋
 
 
-###### Sobre o Matheus
-Realizando uma transição de carreira para a área de tecnologia. Através do curso de Analista de Dados da EBAC, desenvolvi um sólido conhecimento em Python, Machine Learning, BI, SQL e Big Data. Atualmente, estou em busca de uma oportunidade para aplicar minhas habilidades recém adquiridas e contribuir para o crescimento de uma empresa inovadora.
-
-Sou um profissional formado em mecânica industrial com mais de 3 anos de experiência na área. Atualmente trabalho na Iscar do Brasil, uma multinacional israelense líder em vendas de ferramentas de corte de metal duro, e atuo como programador e operador de máquina CNC.
+###### Especialista em usinagem com experiência prática em retificação CNC de ferramentas de precisão utilizando máquinas ANCA, WALTER e HAAS, com histórico na fabricação de ferramentas de metal duro na ISCAR do Brasil — uma das maiores empresas de ferramentas de corte do mundo.
+ 
+Ao longo da trajetória, expandi meu repertório em direção à automação, dados e inteligência artificial, desenvolvendo ferramentas internas para automatizar relatórios de controle de qualidade e criando interfaces para o software de retificação CNC ANCA iGrind. Esses projetos refletem um interesse crescente em tornar a manufatura mais inteligente e eficiente.
+ 
+Atualmente curso Bacharelado em Ciência de Dados pela UNIVESP e a Certificação Profissional em IA do Google (Coursera), aplicando esses conhecimentos diretamente em desafios de automação industrial.
+ 
+Meu objetivo é construir uma ponte entre o chão de fábrica e o mundo digital — combinando expertise em usinagem com automação moderna e inteligência artificial. Tenho especial interesse em ambientes de manufatura que integrem precisão técnica com soluções da Indústria 4.0.
 
 
 ### Detalhes
